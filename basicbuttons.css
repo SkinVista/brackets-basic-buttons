@@ -1,0 +1,17 @@
+#save-button{
+	background-image: url(save.png);
+}
+#undo-button{
+	background-image: url(undo.png);
+}
+#custom-button{
+	background-image: url(custom.png);
+}
+/*
+#save-button:hover{
+	background-position: 0px -24px;
+}
+#undo-button:hover{
+	background-position: 0px -24px;
+}
+*/

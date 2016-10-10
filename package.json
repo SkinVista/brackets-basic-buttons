@@ -1,0 +1,12 @@
+{
+	"name": "basic-buttons",
+	"title": "Basic Buttons",
+	"description": "Simply adds Save All, Undo/Redo, and optional Custom button to toolbar. Right-click for alternate action.",
+	"homepage": "http://github.com/SkinVista/brackets-basic-buttons",
+	"author": "SkinVista <getenvy.com@gmail.com>",
+	"license": "PPD (Persistent Public Domain)",
+	"version": "1.0.0",
+	"engines": {
+		"brackets": ">=0.20.0"
+	}
+}
